@@ -1,6 +1,6 @@
 # KRaZy Boys Tees: Talk to a Database  
 
-This is an end to end LLM project based on Google Palm and Langchain. We are building a system that can talk to MSSQL database. 
+This is an end to end LLM project based on Google Palm and Langchain. It is a system that can talk to MSSQL database. 
 User asks questions in a natural language and the system generates answers by converting those questions to an SQL query and
 then executing that query on MSSQL database. 
 KRaZy Boys Tees is a T-shirt store where they maintain their inventory, sales and discounts data in MSSQL database. A store manager 
