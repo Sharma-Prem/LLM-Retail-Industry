@@ -1,6 +1,6 @@
 fewShots = [
     {
-        "Question": "What are the unique brands in the dataset?",
+        "Question": "What are the unique brands in the store?",
         "SQLQuery": "select distinct brand from t_shirts",
         "SQLResult": "Result of the SQL query",
         "Answer": "Adidas, Levi, Nike, Van Huesen"
